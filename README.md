@@ -35,7 +35,6 @@ This project helps creators and marketers boost their video performance by provi
 ---
 
 ## 📸 Screenshots
-Add screenshots of your project here 👇
 
 ![App Screenshot](assets/screenshot.png)
 
